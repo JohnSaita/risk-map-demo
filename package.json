@@ -8,6 +8,7 @@
     "build": "tsc -p tsconfig.json && tsc -p tsconfig.node.json && vite build",
     "preview": "vite preview",
     "test": "vitest run",
+    "deploy": "tsx scripts/publish-to-portfolio.ts",
     "data:download": "tsx scripts/download-boundaries.ts",
     "data:boundaries": "tsx scripts/prepare-boundaries.ts",
     "data:risk": "tsx scripts/generate-dummy-data.ts",

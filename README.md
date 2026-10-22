@@ -42,11 +42,15 @@ npm run dev
 
 ## Deploy
 
-Every push to `main` runs `.github/workflows/deploy.yml`, which tests, builds and publishes to GitHub Pages at https://johnsaita.github.io/risk-map/.
+The map is served from the portfolio site (repo `johnsaita.github.io`) at https://johnsaita.github.io/risk-map/.
 
-- Add the Mapbox token as the repository secret `VITE_MAPBOX_TOKEN` (Settings → Secrets and variables → Actions). Restrict the token to that URL in your Mapbox account, since it ends up in the public bundle.
-- Optionally add `VITE_CONTACT_URL` as a repository variable.
-- Set Settings → Pages → Source to "GitHub Actions".
+```bash
+npm run deploy   # test, build, and copy dist/ into ../portfolio/risk-map/
+```
+
+Then commit and push the portfolio repo. Set `PORTFOLIO_DIR` if the portfolio is checked out somewhere other than `../portfolio`.
+
+The token is read from `.env` at build time and ends up in the public bundle, as with any client-side Mapbox app, so restrict it to `https://johnsaita.github.io/` in your Mapbox account.
 
 ## Data
 
