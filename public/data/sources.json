@@ -1,0 +1,5173 @@
+{
+ "ABW": {
+  "name": "Aruba",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "Sentinel-2 10m LandCover",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "AFG": {
+  "name": "Afghanistan",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Public Domain",
+    "source": "Wikimedia, geoBoundaries",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM2",
+    "license": "Public Domain",
+    "source": "Afghanistan Information Management Services, Esri Disaster Response Program",
+    "licenseSource": "hub.arcgis.com/datasets/2b63527870ef416bacf83bcaf388685f_0?geometry=53.805%2C30.812%2C81.556%2C37.181"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "geoBoundaries, ArcGIS Hub",
+    "licenseSource": "hub.arcgis.com/datasets/2b63527870ef416bacf83bcaf388685f_0?geometry=53.805%2C30.812%2C81.556%2C37.181"
+   }
+  ],
+  "notes": []
+ },
+ "AGO": {
+  "name": "Angola",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Public Domain",
+    "source": "U.S. Census Bureau",
+    "licenseSource": "www.census.gov/geographies/mapping-files/time-series/demo/international-programs/subnationalpopulation.html"
+   },
+   {
+    "level": "ADM2",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution-ShareAlike 2.0",
+    "source": "Open Street Map",
+    "licenseSource": "osm-boundaries.com/Documentation"
+   }
+  ],
+  "notes": []
+ },
+ "AIA": {
+  "name": "Anguilla",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "raster2polygon from Sentinel-2 10m Land Cover where Image Year = 2021 / exclude gridcode = 1 (water) / dissolve / processed by IMB",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "ALB": {
+  "name": "Albania",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikipedia",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 2.5 Generic",
+    "source": "geoBoundaries, Albania districts blank 2.svg",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikipedia",
+    "licenseSource": "en.wikipedia.org/wiki/Outline_of_Albania#/media/File"
+   }
+  ],
+  "notes": []
+ },
+ "AND": {
+  "name": "Andorra",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   }
+  ],
+  "notes": [
+   "no open district file: states shown at district zoom"
+  ]
+ },
+ "ARE": {
+  "name": "United Arab Emirates",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikipedia",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   }
+  ],
+  "notes": [
+   "no open district file: states shown at district zoom"
+  ]
+ },
+ "ARG": {
+  "name": "Argentina",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 2.5 Generic",
+    "source": "geoBoundaries, Wikimedia",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Instituto Geografico Nacional and UNHCR, OCHA ROLAC",
+    "licenseSource": "data.humdata.org/dataset/argentina-administrative-level-0-boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 2.5 Generic",
+    "source": "geoBoundaries, Wikimedia",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   }
+  ],
+  "notes": []
+ },
+ "ARM": {
+  "name": "Armenia",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 2.5 Generic",
+    "source": "geoBoundaries, Wikimedia",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Government of Armenia, OCHA ROCCA",
+    "licenseSource": "data.humdata.org/dataset/armenia-administrative-boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 2.5 Generic",
+    "source": "geoBoundaries, Wikimedia",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   }
+  ],
+  "notes": []
+ },
+ "ASM": {
+  "name": "American Samoa",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "Sentinel-2 10-Meter Land Use/LandCover",
+    "licenseSource": "livingatlas.arcgis.com/landcover/"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "ATA": {
+  "name": "Antartica",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "Natural Earth",
+    "licenseSource": "www.naturalearthdata.com/about/terms-of-use/"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "ATG": {
+  "name": "Antigua and Barbuda",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   }
+  ],
+  "notes": [
+   "no open district file: states shown at district zoom"
+  ]
+ },
+ "AUS": {
+  "name": "Australia",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Australian Bureau of Statistics",
+    "licenseSource": "www.abs.gov.au/website-privacy-copyright-and-disclaimer#copyright-and-creative-commons"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Australian Bureau of Statistics",
+    "licenseSource": "www.abs.gov.au/website-privacy-copyright-and-disclaimer#copyright-and-creative-commons"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Australian Bureau of Statistics",
+    "licenseSource": "www.abs.gov.au/website-privacy-copyright-and-disclaimer#copyright-and-creative-commons"
+   }
+  ],
+  "notes": []
+ },
+ "AUT": {
+  "name": "Austria",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution-ShareAlike 2.0",
+    "source": "geoBoundaries, Federal Office for Metrology and Survey, Austria",
+    "licenseSource": "twitter.com/WMgeoLab/status/1253487894313959424"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution-ShareAlike 2.0",
+    "source": "Federal Office for Metrology and Survey, Austria, Derived from ADM4 layer",
+    "licenseSource": "twitter.com/WMgeoLab/status/1253487894313959424"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution-ShareAlike 2.0",
+    "source": "Federal Office for Metrology and Survey, Austria, Derived from ADM4 layer",
+    "licenseSource": "www.data.gv.at/katalog/dataset/987d6260-1e87-4314-9039-ccae502819b6"
+   }
+  ],
+  "notes": []
+ },
+ "AZE": {
+  "name": "Azerbaijan",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "geoBoundaries, OpenStreetMap",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+    "source": "Wikipedia",
+    "licenseSource": "en.wikipedia.org/wiki/Administrative_divisions_of_Azerbaijan"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "Sentinel-2 10-Meter Land Use/LandCover",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": []
+ },
+ "BDI": {
+  "name": "Burundi",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "source": "geoBoundaries, Wikimedia",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM2",
+    "license": "Public Domain",
+    "source": "New York University Spatial Data Repository, Stanford University, Map Maker Limited",
+    "licenseSource": "geo.nyu.edu/catalog/stanford-th822mn7301#iso-metadata-reference-info"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   }
+  ],
+  "notes": []
+ },
+ "BEL": {
+  "name": "Belgium",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "Eurostat- European Commission",
+    "licenseSource": "ec.europa.eu/info/legal-notice_en"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "Statistics Belgium",
+    "licenseSource": "statbel.fgov.be/en/open-data"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "Eurostat- European Commission",
+    "licenseSource": "ec.europa.eu/info/legal-notice_en"
+   }
+  ],
+  "notes": []
+ },
+ "BEN": {
+  "name": "Benin",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM2",
+    "license": "Public Domain",
+    "source": "Map Maker Ltd., Stanford earthworks",
+    "licenseSource": "earthworks.stanford.edu/catalog/stanford-rq343zx0554"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   }
+  ],
+  "notes": []
+ },
+ "BES": {
+  "name": "Bonaire Sint Eustatius and Saba",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "Sentinel-2 10-Meter Land Use/LandCover",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "BFA": {
+  "name": "Burkina Faso",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "World Bank",
+    "licenseSource": "datacatalog.worldbank.org/public-licenses#cc-by"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "World Bank",
+    "licenseSource": "datacatalog.worldbank.org/public-licenses#cc-by"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "GeoBoundaries, World Bank",
+    "licenseSource": "datacatalog.worldbank.org/public-licenses#cc-by"
+   }
+  ],
+  "notes": []
+ },
+ "BGD": {
+  "name": "Bangladesh",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Bangladesh Bureau of Statistics (BBS), OCHA ROAP",
+    "licenseSource": "data.humdata.org/dataset/administrative-boundaries-of-bangladesh-as-of-2015"
+   },
+   {
+    "level": "ADM0",
+    "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   }
+  ],
+  "notes": []
+ },
+ "BGR": {
+  "name": "Bulgaria",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM2",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   }
+  ],
+  "notes": []
+ },
+ "BHR": {
+  "name": "Bahrain",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": [
+   "no open district file: states shown at district zoom"
+  ]
+ },
+ "BHS": {
+  "name": "Bahamas",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Haiti GeoPortal",
+    "licenseSource": "httpshttps"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "Natural Earth",
+    "licenseSource": "www.naturalearthdata.com/about/terms-of-use/"
+   }
+  ],
+  "notes": []
+ },
+ "BIH": {
+  "name": "Bosnia and Herzegovina",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Public Domain",
+    "source": "Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM2",
+    "license": "Public Domain",
+    "source": "Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   }
+  ],
+  "notes": []
+ },
+ "BLM": {
+  "name": "Saint Barthélemy",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "raster2polygon from Sentinel-2 10m Land Cover where Image Year = 2021 / exclude gridcode = 1 (water) / dissolve / processed by IMB",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "BLR": {
+  "name": "Belarus",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 3.0 License",
+    "source": "geoBoundaries, CIESIN",
+    "licenseSource": "creativecommons.org/licenses/by/3.0/"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 License",
+    "source": "geoBoundaries, CIESIN",
+    "licenseSource": "creativecommons.org/licenses/by/3.0/"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Government Licence v3.0",
+    "source": "OpenDataSoft, WFPGeoNode",
+    "licenseSource": "www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+   }
+  ],
+  "notes": []
+ },
+ "BLZ": {
+  "name": "Belize",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 2.5 Generic",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM2",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikipedia",
+    "licenseSource": "en.wikipedia.org/wiki/Public_domain"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "BMU": {
+  "name": "Bermuda",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "raster2polygon from Sentinel-2 10m Land Cover where Image Year = 2021 / exclude gridcode = 1 (water) / dissolve / processed by IMB",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "BOL": {
+  "name": "Bolivia (Plurinational State of)",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Public Domain",
+    "source": "GeoBolivia, Derived from ADM3 layer",
+    "licenseSource": "geo.gob.bo/geonetwork/srv/spa/catalog.search#/metadata/aeeb85a9-23df-48d4-a4e5-dd19e8b206db"
+   },
+   {
+    "level": "ADM2",
+    "license": "Public Domain",
+    "source": "GeoBolivia, Derived from ADM3 layer",
+    "licenseSource": "geo.gob.bo/geonetwork/srv/spa/catalog.search#/metadata/aeeb85a9-23df-48d4-a4e5-dd19e8b206db"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "GeoBolivia, Derived from ADM3 layer",
+    "licenseSource": "geo.gob.bo/geonetwork/srv/spa/catalog.search#/metadata/aeeb85a9-23df-48d4-a4e5-dd19e8b206db"
+   }
+  ],
+  "notes": []
+ },
+ "BRA": {
+  "name": "Brazil",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 2.5 Generic",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Instituto Brasileiro de Geografia e Estatística (IBGE), OCHA ROLAC",
+    "licenseSource": "data.humdata.org/dataset/brazil-administrative-level-0-boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Instituto Brasileiro de Geografia e Estatística (IBGE)",
+    "licenseSource": "data.humdata.org/dataset/brazil-administrative-level-0-boundaries"
+   }
+  ],
+  "notes": []
+ },
+ "BRB": {
+  "name": "Barbados",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 2.5 Generic",
+    "source": "geoBoundaries, Wikimedia",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 2.5 Generic",
+    "source": "geoBoundaries, Wikimedia",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   }
+  ],
+  "notes": [
+   "no open district file: states shown at district zoom"
+  ]
+ },
+ "BRN": {
+  "name": "Brunei Darussalam",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia Commons; credit to user 'Tachymetre'",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM2",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia Commons; credit to user 'Rarelibra'",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   }
+  ],
+  "notes": []
+ },
+ "BTN": {
+  "name": "Bhutan",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 3.0 License",
+    "source": "geoBoundaries, Wikimedia Commons; credit to author 'Babbage'",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "OCHA ROAP",
+    "licenseSource": "data.humdata.org/dataset/bhutan-administrative-boundaries-levels-0-2"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 3.0 License",
+    "source": "geoBoundaries, Wikimedia Commons; credit to author 'Babbage'",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   }
+  ],
+  "notes": []
+ },
+ "BWA": {
+  "name": "Botswana",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution-ShareAlike 2.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Public Domain",
+    "source": "RCMRD",
+    "licenseSource": "geoportal.rcmrd.org/layers/servir%3Abotswana_adm2#license-more-above"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "geoBoundaries, RCMRD",
+    "licenseSource": "geoportal.rcmrd.org/layers/servir%3Abotswana_district_boundary"
+   }
+  ],
+  "notes": []
+ },
+ "CAF": {
+  "name": "Central African Republic",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 2.5 Generic",
+    "source": "geoBoundaries, Wikimedia",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 License",
+    "source": "geoBoundaries, UNHCR",
+    "licenseSource": "data2.unhcr.org/en/documents/details/32968"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 2.5 Generic",
+    "source": "geoBoundaries, Wikimedia",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   }
+  ],
+  "notes": []
+ },
+ "CAN": {
+  "name": "Canada",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Government Canada 2.0",
+    "source": "Statistics Canada (StatCan)",
+    "licenseSource": "www.statcan.gc.ca/eng/reference/licence"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Government Canada 2.0",
+    "source": "Statistics Canada (StatCan)",
+    "licenseSource": "www.statcan.gc.ca/en/reference/licence"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "CHE": {
+  "name": "Switzerland",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Federal Office of Topography swisstopo License",
+    "source": "Federal Office of Topography swisstopo",
+    "licenseSource": "www.swisstopo.admin.ch/en/home/meta/conditions/geodata/ogd.html"
+   },
+   {
+    "level": "ADM2",
+    "license": "Federal Office of Topography swisstopo License",
+    "source": "Federal Office of Topography swisstopo",
+    "licenseSource": "www.swisstopo.admin.ch/en/home/meta/conditions/geodata/ogd.html"
+   },
+   {
+    "level": "ADM0",
+    "license": "Federal Office of Topography swisstopo License",
+    "source": "Federal Office of Topography swisstopo",
+    "licenseSource": "www.swisstopo.admin.ch/en/home/meta/conditions/geodata/ogd.html"
+   }
+  ],
+  "notes": []
+ },
+ "CHL": {
+  "name": "Chile",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "La Biblioteca del Congreso Nacional de Chile (BCN), OCHA ROLAC",
+    "licenseSource": "data.humdata.org/dataset/chile-administrative-level-0-country-1-region-region"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "Natural Earth",
+    "licenseSource": "www.naturalearthdata.com/about/terms-of-use/"
+   }
+  ],
+  "notes": []
+ },
+ "CHN": {
+  "name": "China",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Public Domain Dedication and License (PDDL) v1.0",
+    "source": "National Administration of Surveying, Mapping and Geoinformation of China, Revolutionary GIS",
+    "licenseSource": "revolutionarygis.wordpress.com/2014/01/18/china-prefecture-shapefile-and-china-province-shapefile/"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   }
+  ],
+  "notes": []
+ },
+ "CIV": {
+  "name": "Côte d'Ivoire",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "World Bank Group, OCHA Côte d’Ivoire",
+    "licenseSource": "datacatalog.worldbank.org/public-licenses#cc-by"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "World Bank",
+    "licenseSource": "datacatalog.worldbank.org/public-licenses#cc-by"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "Natural Earth",
+    "licenseSource": "www.naturalearthdata.com/about/terms-of-use/"
+   }
+  ],
+  "notes": []
+ },
+ "CMR": {
+  "name": "Cameroon",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 3.0 License",
+    "source": "geoBoundaries, Wikimedia",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Open Africa",
+    "licenseSource": "africaopendata.org/dataset/cameroon-maps"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 3.0 License",
+    "source": "geoBoundaries, Wikimedia",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   }
+  ],
+  "notes": []
+ },
+ "COD": {
+  "name": "Democratic Republic of the Congo",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Referenciel Géographique Commun, OCHA DR Congo",
+    "licenseSource": "data.humdata.org/dataset/drc-administrative-boundaries-levels-0-2"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "COG": {
+  "name": "Congo",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Public Domain",
+    "source": "New York University Spatial Data Repository, Stanford University, Map Maker Limited",
+    "licenseSource": "geo.nyu.edu/catalog/stanford-hz799nq4536"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "COK": {
+  "name": "Cook Islands",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "raster2polygon from Sentinel-2 10m Land Cover where Image Year = 2021 / exclude gridcode = 1 (water) / dissolve / processed by IMB",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "COL": {
+  "name": "Colombia",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Departamento Administrativo Nacional de Estadistica",
+    "licenseSource": "geoportal.dane.gov.co/?descarga-marco-geoestadistico-nacional"
+   },
+   {
+    "level": "ADM0",
+    "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "source": "Geoboundaries, Wikimedia",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   }
+  ],
+  "notes": []
+ },
+ "COM": {
+  "name": "Comoros",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Comoros National Disaster Management Agency (COSEP-Centre des secours et de la protection civil), OCHA ROSEA",
+    "licenseSource": "data.humdata.org/dataset/comoros-administrative-level-0-3-boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "CPV": {
+  "name": "Cabo Verde",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "OCHA ROWCA, OCHA ROWCA",
+    "licenseSource": "data.humdata.org/dataset/cape-verde-administrative-boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "CRI": {
+  "name": "Costa Rica",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "CUB": {
+  "name": "Cuba",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "CUW": {
+  "name": "Curaçao",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "raster2polygon from Sentinel-2 10m Land Cover where Image Year = 2021 / exclude gridcode = 1 (water) / dissolve / processed by IMB",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "CYM": {
+  "name": "Cayman Islands",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "raster2polygon from Sentinel-2 10m Land Cover where Image Year = 2021 / exclude gridcode = 1 (water) / dissolve / processed by IMB",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "CYP": {
+  "name": "Cyprus",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+    "source": "Wikipedia, Cyprus Department of Land Registry and Geometry",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "CZE": {
+  "name": "Czechia",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Czech Office for Surveying",
+    "licenseSource": "creativecommons.org/licenses/by/4.0/"
+   },
+   {
+    "level": "ADM2",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "creativecommons.org/share-your-work/public-domain"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Czech Office for Surveying",
+    "licenseSource": "creativecommons.org/licenses/by/4.0/"
+   }
+  ],
+  "notes": []
+ },
+ "DEU": {
+  "name": "Germany",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Data license Germany - Attribution - Version 2.0",
+    "source": "Federal Agency for Cartography and Geodesy",
+    "licenseSource": "www.govdata.de/dl-de/by-2-0"
+   },
+   {
+    "level": "ADM2",
+    "license": "Data license Germany - Attribution - Version 2.0",
+    "source": "Federal Agency for Cartography and Geodesy",
+    "licenseSource": "www.govdata.de/dl-de/by-2-0"
+   },
+   {
+    "level": "ADM0",
+    "license": "Data license Germany - Attribution - Version 2.0",
+    "source": "Federal Agency for Cartography and Geodesy",
+    "licenseSource": "www.govdata.de/dl-de/by-2-0"
+   }
+  ],
+  "notes": []
+ },
+ "DJI": {
+  "name": "Djibouti",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Public Domain",
+    "source": "Natural Earth",
+    "licenseSource": "www.naturalearthdata.com/about/terms-of-use/"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "FEWS, OCHA FISS",
+    "licenseSource": "data.humdata.org/dataset/djibouti-administrative-levels-0-2-boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "Natural Earth",
+    "licenseSource": "www.naturalearthdata.com/about/terms-of-use/"
+   }
+  ],
+  "notes": []
+ },
+ "DMA": {
+  "name": "Dominica",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 2.5 Generic",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 2.5 Generic",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   }
+  ],
+  "notes": [
+   "no open district file: states shown at district zoom"
+  ]
+ },
+ "DNK": {
+  "name": "Denmark",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "geoBoundaries, Web Vectors Map",
+    "licenseSource": "webvectormaps.com/administrative-map-of-denmark-by-regions/"
+   },
+   {
+    "level": "ADM2",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "geoBoundaries, Web Vectors Map",
+    "licenseSource": "webvectormaps.com/administrative-map-of-denmark-by-regions/"
+   }
+  ],
+  "notes": []
+ },
+ "DOM": {
+  "name": "Dominican Republic",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Public Domain",
+    "source": "Natural Earth",
+    "licenseSource": "www.naturalearthdata.com/about/terms-of-use/"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Caribbean GeoPortal, N/A",
+    "licenseSource": "creativecommons.org/licenses/by/4.0/"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Caribbean GeoPortal, N/A",
+    "licenseSource": "creativecommons.org/licenses/by/4.0/"
+   }
+  ],
+  "notes": []
+ },
+ "DZA": {
+  "name": "Algeria",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "ECU": {
+  "name": "Ecuador",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "INEC - Instituto Nacional de Estadística y Censos, OCHA ROLAC",
+    "licenseSource": "data.humdata.org/dataset/ecuador-admin-level-2-boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   }
+  ],
+  "notes": []
+ },
+ "EGY": {
+  "name": "Egypt",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "OCHA ROMENA/HDX, Central Agency for Public Mobilization and Statistics (CAPMAS)",
+    "licenseSource": "data.humdata.org/dataset/egypt-administrative-boundaries-levels-0-3"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "ERI": {
+  "name": "Eritrea",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "OCHA ROSEA, OCHA ROSEA",
+    "licenseSource": "data.humdata.org/dataset/eritrea-admin-level-1-boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "ESP": {
+  "name": "Spain",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Instituto de Geografico Nacional",
+    "licenseSource": "centrodedescargas.cnig.es/CentroDescargas/index.jsp#"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Instituto de Geografico Nacional",
+    "licenseSource": "centrodedescargas.cnig.es/CentroDescargas/index.jsp#"
+   }
+  ],
+  "notes": [
+   "no open district file: states shown at district zoom"
+  ]
+ },
+ "EST": {
+  "name": "Estonia",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "ETH": {
+  "name": "Ethiopia",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "Open Africa, Code for Ethiopia",
+    "licenseSource": "africaopendata.org/dataset/ethiopia-shapefiles"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "Open Africa, Code for Ethiopia",
+    "licenseSource": "africaopendata.org/dataset/ethiopia-shapefiles"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "Open Africa, Code for Ethiopia",
+    "licenseSource": "africaopendata.org/dataset/ethiopia-shapefiles"
+   }
+  ],
+  "notes": []
+ },
+ "FIN": {
+  "name": "Finland",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "FJI": {
+  "name": "Fiji",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 2.5 Generic",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "en.wikipedia.org/wiki/File"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "pacificdata.org",
+    "licenseSource": "pacificdata.org/data/geographic_data/2007_fji_phc_admin_boundaries/resource/5880cadb-2287-4eac-9f3d-8b321730e6cd"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "geoBoundaries, OpenStreetMap",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "FLK": {
+  "name": "Falkland Islands (Malvinas)",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "raster2polygon from Sentinel-2 10m Land Cover where Image Year = 2021 / exclude gridcode = 1 (water) / dissolve / processed by IMB",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "FRA": {
+  "name": "France",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Etalab Open License 2.0",
+    "source": "Institut national de l'information géographique et forestière (IGN-F)",
+    "licenseSource": "geoservices.ign.fr/sites/default/files/2021-11/IGNF_ADMIN_EXPRESS_3-1.html"
+   },
+   {
+    "level": "ADM2",
+    "license": "Etalab Open License 2.0",
+    "source": "Institut national de l'information géographique et forestière (IGN-F)",
+    "licenseSource": "geoservices.ign.fr/sites/default/files/2021-11/IGNF_ADMIN_EXPRESS_3-1.html"
+   },
+   {
+    "level": "ADM0",
+    "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "source": "geoBoundaries, Wikipedia",
+    "licenseSource": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+   }
+  ],
+  "notes": []
+ },
+ "FRO": {
+  "name": "Faroe Islands",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "raster2polygon from Sentinel-2 10m Land Cover where Image Year = 2021 / exclude gridcode = 1 (water) / dissolve / processed by IMB",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "FSM": {
+  "name": "Micronesia (Fed. States of)",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "OCHA ROP, Federated States of Micronesia Division of Statistics, 2010 Census of Population and Housing and Secretariat of the Pacific Community, Statistics for Development Division",
+    "licenseSource": "Data https"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "OCHA ROP, Federated States of Micronesia Division of Statistics, 2010 Census of Population and Housing and Secretariat of the Pacific Community, Statistics for Development Division",
+    "licenseSource": "Data https"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "OCHA ROP, Federated States of Micronesia Division of Statistics, 2010 Census of Population and Housing and Secretariat of the Pacific Community, Statistics for Development Division",
+    "licenseSource": "Data https"
+   }
+  ],
+  "notes": []
+ },
+ "GAB": {
+  "name": "Gabon",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+    "source": "geoBoundaries, Wikipedia",
+    "licenseSource": "en.wikipedia.org/wiki/Subdivisions_of_Gabon#/media/File"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 License",
+    "source": "geoBoundaries, Wikimedia",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+    "source": "geoBoundaries, Wikipedia",
+    "licenseSource": "en.wikipedia.org/wiki/Subdivisions_of_Gabon#/media/File"
+   }
+  ],
+  "notes": []
+ },
+ "GBR": {
+  "name": "United Kingdom",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Eurostat- European Commission",
+    "licenseSource": "ec.europa.eu/info/legal-notice_en"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Government Licence v3.0",
+    "source": "Office for National Statistics Open Geography Portal",
+    "licenseSource": "geoportal.statistics.gov.uk/datasets/b216b4c8a4e74f6fb692a1785255d777_0?geometry=-19.125%2C53.451%2C14.252%2C57.788"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "Eurostat- European Commission",
+    "licenseSource": "ec.europa.eu/info/legal-notice_en"
+   }
+  ],
+  "notes": []
+ },
+ "GEO": {
+  "name": "Georgia",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 3.0 License",
+    "source": "geoBoundaries, Wikimedia",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM2",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution-ShareAlike 2.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "GGY": {
+  "name": "Guernsey",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "raster2polygon from Sentinel-2 10m Land Cover where Image Year = 2021 / exclude gridcode = 1 (water) / dissolve / processed by IMB",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "GHA": {
+  "name": "Ghana",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution-ShareAlike 2.0",
+    "source": "Open Street Map",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "USAID Ghana HPNO, Ghana Statistical Service",
+    "licenseSource": "creativecommons.org/licenses/by/4.0/"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "Stanford Digital Repository",
+    "licenseSource": "purl.stanford.edu/rh271yg5585"
+   }
+  ],
+  "notes": []
+ },
+ "GIB": {
+  "name": "Gibraltar",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "raster2polygon from Sentinel-2 10m Land Cover where Image Year = 2021 / exclude gridcode = 1 (water) / dissolve / erase adm0 overlap / processed by IMB",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "GIN": {
+  "name": "Guinea",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "World Food Programme, OCHA ROWCA",
+    "licenseSource": "data.humdata.org/dataset/guinea-geodatabase"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "World Food Programme, OCHA ROWCA",
+    "licenseSource": "data.humdata.org/dataset/guinea-geodatabase"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution-ShareAlike 2.0",
+    "source": "OSM Boundaries",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "GLP": {
+  "name": "Guadeloupe",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "raster2polygon from Sentinel-2 10m Land Cover where Image Year = 2021 / exclude gridcode = 1 (water) / dissolve / processed by IMB",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "GMB": {
+  "name": "Gambia",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "Knippenberg, Erwin, & Moritz, Meyer. “The Hidden Potential of Mobile Phone Data Insights on COVID-19 in the Gambia.” Data Blog, The World Bank Data Catalog",
+    "licenseSource": "datacatalog.worldbank.org/search/dataset/0038034"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "geoBoundaries, Knippenberg, Erwin, & Moritz, Meyer. “The Hidden Potential of Mobile Phone Data Insights on COVID-19 in the Gambia.” The World Bank Data Catalog",
+    "licenseSource": "datacatalog.worldbank.org/search/dataset/0038034"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "geoBoundaries, Knippenberg, Erwin, & Moritz, Meyer. “The Hidden Potential of Mobile Phone Data Insights on COVID-19 in the Gambia.” The World Bank Data Catalog",
+    "licenseSource": "datacatalog.worldbank.org/search/dataset/0038034"
+   }
+  ],
+  "notes": []
+ },
+ "GNB": {
+  "name": "Guinea-Bissau",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "GNQ": {
+  "name": "Equatorial Guinea",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "World Resources Institute, Congo Forest Basin Atlas",
+    "licenseSource": "gnq-data.forest-atlas.org/datasets/equatorial-guinea-gis-data-2013"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "GRC": {
+  "name": "Greece",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "EuroGeoGraphics, Regional IM Working Group - Europe",
+    "licenseSource": "data.humdata.org/dataset/gree"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "EuroGeoGraphics, Regional IM Working Group - Europe",
+    "licenseSource": "data.humdata.org/dataset/gree"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "EuroGeoGraphics, Regional IM Working Group - Europe",
+    "licenseSource": "data.humdata.org/dataset/gree"
+   }
+  ],
+  "notes": []
+ },
+ "GRD": {
+  "name": "Grenada",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution-ShareAlike 2.0",
+    "source": "OpenStreetMap, Wikipedia",
+    "licenseSource": "osm-boundaries.com/"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": [
+   "no open district file: states shown at district zoom"
+  ]
+ },
+ "GRL": {
+  "name": "Greenland",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+    "source": "GeoBoundaries, Wikipedia",
+    "licenseSource": "creativecommons.org/licenses/by-sa/3.0/de/legalcode"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution-ShareAlike 2.0",
+    "source": "OpenStreetMap, Geofabrik",
+    "licenseSource": "download.geofabrik.de/north-america/greenland.html"
+   }
+  ],
+  "notes": [
+   "no open district file: states shown at district zoom"
+  ]
+ },
+ "GTM": {
+  "name": "Guatemala",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Coordinadora Nacional Para La Reducción De Desastres, OCHA FISS",
+    "licenseSource": "data.humdata.org/dataset/guatemala-administrative-level-0-national-1-departments-and-2-municipalities"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "GUF": {
+  "name": "French Guiana",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "raster2polygon from Sentinel-2 10m Land Cover where Image Year = 2021 / exclude gridcode = 1 (water) / dissolve / erase adm0 overlap / processed by IMB",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "GUM": {
+  "name": "Guam",
+  "files": [
+   {
+    "level": "ADM2",
+    "license": "Public Domain",
+    "source": "United States Census Bureau, MAF/TIGER",
+    "licenseSource": "www.census.gov/about/policies/open-gov/open-data.html"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "Sentinel-2 10-Meter Land Use/LandCover",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no states to nest districts in: country shown at district zoom"
+  ]
+ },
+ "GUY": {
+  "name": "Guyana",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "DEVInfo LAC project, OCHA FISS",
+    "licenseSource": "data.humdata.org/dataset/guyana-administrative-level-0-1-and-2-boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   }
+  ],
+  "notes": []
+ },
+ "HND": {
+  "name": "Honduras",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "ICF - Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, Gobierno de la República de Honduras",
+    "licenseSource": "creativecommons.org/licenses/by/4.0/"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "HRV": {
+  "name": "Croatia",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution-ShareAlike 2.0",
+    "source": "Open Street Map, geoBoundaries",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "HTI": {
+  "name": "Haiti",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "HUN": {
+  "name": "Hungary",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/w/index.php?search=Maps+of+Hungary&title=Special"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/w/index.php?search=Maps+of+Hungary&title=Special"
+   }
+  ],
+  "notes": []
+ },
+ "IDN": {
+  "name": "Indonesia",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Badan Pusat Statistik (BPS - Statistics Indonesia), World Food Programme, OCHA ROAP",
+    "licenseSource": "data.humdata.org/dataset/indonesia-administrative-boundary-polygons-lines-and-places-levels-0-4b"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "IMN": {
+  "name": "Isle of Man",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "raster2polygon from Sentinel-2 10m Land Cover where Image Year = 2021 / exclude gridcode = 1 (water) / dissolve / processed by IMB",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "IND": {
+  "name": "India",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 2.5 India (CC BY 2.5 IN)",
+    "source": "DataMeet India community, Election Commission of India",
+    "licenseSource": "github.com/datameet/maps"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "Pathways Data Pvt. Ltd., lgdirectory.gov.in",
+    "licenseSource": "geonode.pathwaysdata.com/layers/geonode"
+   }
+  ],
+  "notes": [
+   "country outline dissolved from states (no open ADM0 file)"
+  ]
+ },
+ "IRL": {
+  "name": "Ireland",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "Ordce Survey Ireland",
+    "licenseSource": "www.arcgis.com/sharing/rest/content/items/cac5ddcbbe934edc881d1611c6b910c7/info/metadata/metadata.xml?format=default&output=html"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "Ordce Survey Ireland",
+    "licenseSource": "data-osi.opendata.arcgis.com/datasets/OSi"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "IRN": {
+  "name": "Iran (Islamic Republic of)",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "Natural Earth",
+    "licenseSource": "www.naturalearthdata.com/about/terms-of-use/"
+   }
+  ],
+  "notes": []
+ },
+ "IRQ": {
+  "name": "Iraq",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Iraq Central Statistics Office, OCHA Iraq",
+    "licenseSource": "data.humdata.org/dataset/iraq-admin-level-1-boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "Natural Earth",
+    "licenseSource": "www.naturalearthdata.com/about/terms-of-use/"
+   }
+  ],
+  "notes": []
+ },
+ "ISL": {
+  "name": "Iceland",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "National Land Survey of Iceland",
+    "licenseSource": "gatt.lmi.is/geonetwork/srv/eng/catalog.search#/metadata/%7B7CF6A33E-2588-42A8-A483-0B6F729B528A%7D"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Lýsigagnagátt",
+    "licenseSource": "gatt.lmi.is/geonetwork/srv/eng/catalog.search#/metadata/A1919501-BA1F-4AEE-ABB8-00A3217258AA"
+   }
+  ],
+  "notes": []
+ },
+ "ISR": {
+  "name": "Israel",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM2",
+    "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "ITA": {
+  "name": "Italy",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 3.0 License",
+    "source": "ISTAT, National Institute of Statistics",
+    "licenseSource": "www.istat.it/it/note-legali"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 License",
+    "source": "ISTAT, National Institute of Statistics",
+    "licenseSource": "www.istat.it/it/note-legali"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 3.0 License",
+    "source": "ISTAT, National Institute of Statistics",
+    "licenseSource": "www.istat.it/it/note-legali"
+   }
+  ],
+  "notes": []
+ },
+ "JAM": {
+  "name": "Jamaica",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution-ShareAlike 2.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "Justin Meyers, Planning Office of Jamaica",
+    "licenseSource": "github.com/justinelliotmeyers/official_jamaica_administrative_boundary_shapefile/blob/master/Source_License.txt"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   }
+  ],
+  "notes": []
+ },
+ "JOR": {
+  "name": "Jordan",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 2.5 Generic",
+    "source": "geoBoundaries, Wikimedia",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM2",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "geoBoundaries, Wikipedia",
+    "licenseSource": "en.wikipedia.org/wiki/Geography_of_Jordan#/media/File"
+   }
+  ],
+  "notes": []
+ },
+ "JPN": {
+  "name": "Japan",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution-ShareAlike 2.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Ministry of Land, Infrastructure, Transport and Tourism National Land Numerical Information Download Site",
+    "licenseSource": "nlftp.mlit.go.jp/ksj/other/agreement.html#agree-01"
+   }
+  ],
+  "notes": []
+ },
+ "KAZ": {
+  "name": "Kazakhstan",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "KEN": {
+  "name": "Kenya",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Public Domain",
+    "source": "RCMRD GeoPortal, Africa GeoPortal",
+    "licenseSource": "rcmrd.africageoportal.com/datasets/africageoportal"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "IEBC, OCHA ROSEA",
+    "licenseSource": "data.humdata.org/dataset/ken-administrative-boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "RCMRD GeoPortal, geoBoundaries",
+    "licenseSource": "rcmrd.africageoportal.com/datasets/africageoportal"
+   }
+  ],
+  "notes": []
+ },
+ "KGZ": {
+  "name": "Kyrgyzstan",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+    "source": "geoBoundaries, Wikipedia, Districts of Kyrgyzstan",
+    "licenseSource": "creativecommons.org/licenses/by-sa/3.0/legalcode"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "KHM": {
+  "name": "Cambodia",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Open Development Mekong, Open Development Cambodia",
+    "licenseSource": "opendevelopmentcambodia.net/dataset/?id=administrative-boundaries-of-cambodia-2014"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "KIR": {
+  "name": "Kiribati",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "KNA": {
+  "name": "Saint Kitts and Nevis",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution-ShareAlike 2.0",
+    "source": "OpenStreetMap",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 2.5 Generic",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   }
+  ],
+  "notes": [
+   "no open district file: states shown at district zoom"
+  ]
+ },
+ "KOR": {
+  "name": "Republic of Korea",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Public Domain",
+    "source": "Natural Earth",
+    "licenseSource": "www.naturalearthdata.com/about/terms-of-use/"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 License",
+    "source": "geoBoundaries, citypopulation.de",
+    "licenseSource": "www.citypopulation.de/en/help/termsofuse/"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "Natural Earth, geoBoundaries",
+    "licenseSource": "www.naturalearthdata.com/about/terms-of-use/"
+   }
+  ],
+  "notes": []
+ },
+ "KWT": {
+  "name": "Kuwait",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/relation/305099#map=9/29.3171/47.7787"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "LAO": {
+  "name": "Lao People's Democratic Republic",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "National Geographic Department, OCHA ROAP",
+    "licenseSource": "data.humdata.org/dataset/lao-admin-boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "LBN": {
+  "name": "Lebanon",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM2",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikipedia",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   }
+  ],
+  "notes": []
+ },
+ "LBR": {
+  "name": "Liberia",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "UNMIL, OCHA ROWCA",
+    "licenseSource": "data.humdata.org/dataset/liberia-admin-level-2-boundaries"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "UNMIL, OCHA ROWCA",
+    "licenseSource": "data.humdata.org/dataset/liberia-admin-level-2-boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "UNMIL, OCHA ROWCA",
+    "licenseSource": "data.humdata.org/dataset/liberia-admin-level-2-boundaries"
+   }
+  ],
+  "notes": []
+ },
+ "LBY": {
+  "name": "Libya",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Public Domain",
+    "source": "Natural Earth",
+    "licenseSource": "www.naturalearthdata.com/about/terms-of-use/"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "Natural Earth",
+    "licenseSource": "www.naturalearthdata.com/about/terms-of-use/"
+   }
+  ],
+  "notes": [
+   "no open district file: states shown at district zoom"
+  ]
+ },
+ "LCA": {
+  "name": "Saint Lucia",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "source": "Wikimedia Commons, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "Department of Physical Planning, Saint Lucia Open Data",
+    "licenseSource": "data.govt.lc/dataset/st-lucia-communities"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   }
+  ],
+  "notes": []
+ },
+ "LIE": {
+  "name": "Liechtenstein",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": [
+   "no open district file: states shown at district zoom"
+  ]
+ },
+ "LKA": {
+  "name": "Sri Lanka",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "LSO": {
+  "name": "Lesotho",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "FAO and the Ministry of Local Government, OCHA ROSEA",
+    "licenseSource": "data.humdata.org/dataset/lesotho-administrative-level-0-2-boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "LTU": {
+  "name": "Lithuania",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "LUX": {
+  "name": "Luxembourg",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Public Domain",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "LVA": {
+  "name": "Latvia",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Geoportal of Latvia",
+    "licenseSource": "geolatvija.lv/geo/p/658"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Valsts zemes dienests",
+    "licenseSource": "data.gov.lv/dati/lv/dataset/administrativo-teritoriju-karte/resource/85aab9e3-a65a-42c0-ab8f-be249f96c58d"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Geoportal of Latvia",
+    "licenseSource": "geolatvija.lv/geo/p/658"
+   }
+  ],
+  "notes": []
+ },
+ "MAR": {
+  "name": "Morocco",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "MCO": {
+  "name": "Monaco",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "MDA": {
+  "name": "Republic of Moldova",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "UNHCR, OCHA FISS",
+    "licenseSource": "data.humdata.org/dataset/moldova-administrative-level-0-1-boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "geoBoundaries, Wikipedia",
+    "licenseSource": "commons.wikimedia.org/wiki/Category"
+   }
+  ],
+  "notes": [
+   "no open district file: states shown at district zoom"
+  ]
+ },
+ "MDG": {
+  "name": "Madagascar",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Madagascar National Disaster Management Office (BNGRC), OCHA ROSA",
+    "licenseSource": "data.humdata.org/dataset/madagascar-administrative-level-0-4-boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "MDV": {
+  "name": "Maldives",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Government of the Republic of Maldives, OCHA ROAP",
+    "licenseSource": "data.humdata.org/dataset/maldives-administrative-boundaries-polygon-polyline"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "Sentinel-2 10-Meter Land Use/LandCover",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": []
+ },
+ "MEX": {
+  "name": "Mexico",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Instituto Nacional de Estadística y Geografía (INEGI)",
+    "licenseSource": "data.humdata.org/dataset/mexican-administrative-level-0-country-1-estado-and-2-municipio-boundary-polygons"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "World Bank",
+    "licenseSource": "datacatalog.worldbank.org/public-licenses#cc-by"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "geoBoundaries, World Bank",
+    "licenseSource": "datacatalog.worldbank.org/public-licenses#cc-by"
+   }
+  ],
+  "notes": []
+ },
+ "MHL": {
+  "name": "Marshall Islands",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": [
+   "no open district file: states shown at district zoom"
+  ]
+ },
+ "MKD": {
+  "name": "North Macedonia",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "EuroGeographics and NTES (Nomenclature of Territorial Units for Statistics - Republic of Macedonia State Statistical Office), Regional IM Working Group - Europe",
+    "licenseSource": "data.humdata.org/dataset/fyrom-administrative-levels-1-4-from-eurogeographics-and-ntes"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "EuroGeographics, Regional IM Working Group - Europe",
+    "licenseSource": "data.humdata.org/dataset/fyrom-administrative-levels-1-4-from-eurogeographics-and-ntes"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "EuroGeographics, Regional IM Working Group - Europe",
+    "licenseSource": "data.humdata.org/dataset/fyrom-administrative-levels-1-4-from-eurogeographics-and-ntes"
+   }
+  ],
+  "notes": []
+ },
+ "MLI": {
+  "name": "Mali",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "DNCT - Direction Nationale des Collectivités Territoriales, United Nations Office for the Coordination of Humanitarian Affairs, Mali",
+    "licenseSource": "data.humdata.org/dataset/administrative-boundaries-cod-mli"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "DNCT - Direction Nationale des Colelctivités Territorielles, DNP - Direction Nationale de la Population, United Nations Office for the Coordination of Humanitarian Affairs, Mali",
+    "licenseSource": "data.humdata.org/dataset/mali-admin-boundaries-level-1-2-and-3-including-2017-population-desagregated-by-sexe"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "DNCT - Direction Nationale des Colelctivités Territorielles, DNP - Direction Nationale de la Population, United Nations Office for the Coordination of Humanitarian Affairs, Mali",
+    "licenseSource": "data.humdata.org/dataset/mali-admin-boundaries-level-1-2-and-3-including-2017-population-desagregated-by-sexe"
+   }
+  ],
+  "notes": []
+ },
+ "MLT": {
+  "name": "Malta",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Public Domain",
+    "source": "geoBoundaries, d-maps.com",
+    "licenseSource": "d-maps.com/conditions.php?lang=en"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   }
+  ],
+  "notes": [
+   "no open district file: states shown at district zoom"
+  ]
+ },
+ "MMR": {
+  "name": "Myanmar",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "Myanmar Analytics Project, geoBoundaries",
+    "licenseSource": "data.mmanalytics.org/dataset/border-shapefiles"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "Myanmar Analytics Project, USAID/Burma",
+    "licenseSource": "data.mmanalytics.org/dataset/border-shapefiles"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution-ShareAlike 2.0",
+    "source": "OpenStreetMap",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "MNE": {
+  "name": "Montenegro",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": [
+   "no open district file: states shown at district zoom"
+  ]
+ },
+ "MNG": {
+  "name": "Mongolia",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "National Statistical Office of Mongolia, OCHA ROAP",
+    "licenseSource": "data.humdata.org/dataset/mongolia-administrative-boundaries-polygon-polyline"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "MNP": {
+  "name": "Northern Mariana Islands",
+  "files": [
+   {
+    "level": "ADM2",
+    "license": "Public Domain",
+    "source": "United States Census Bureau, MAF/TIGER",
+    "licenseSource": "www.census.gov/about/policies/open-gov/open-data.html"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "Sentinel-2 10-Meter Land Use/LandCover",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no states to nest districts in: country shown at district zoom"
+  ]
+ },
+ "MOZ": {
+  "name": "Mozambique",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Mozambique INE (Instituto Nacional de Estatistica), OCHA ROSEA",
+    "licenseSource": "data.humdata.org/dataset/mozambique-administrative-levels-0-3"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "MRT": {
+  "name": "Mauritania",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+    "source": "Princeton University Library",
+    "licenseSource": "maps.princeton.edu/catalog/stanford-nw291zj7245/metadata"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "World Food Programme, OCHA ROWCA",
+    "licenseSource": "data.humdata.org/dataset/mauritania-administrative-boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "World Food Programme and OCHA",
+    "licenseSource": "data.humdata.org/dataset/mauritania-administrative-boundaries"
+   }
+  ],
+  "notes": []
+ },
+ "MSR": {
+  "name": "Montserrat",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "raster2polygon from Sentinel-2 10m Land Cover where Image Year = 2021 / exclude gridcode = 1 (water) / dissolve / processed by IMB",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "MTQ": {
+  "name": "Martinique",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "raster2polygon from Sentinel-2 10m Land Cover where Image Year = 2021 / exclude gridcode = 1 (water) / dissolve / processed by IMB",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "MUS": {
+  "name": "Mauritius",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "geoBoundaries, OpenStreetMap",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambachers",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": [
+   "no open district file: states shown at district zoom"
+  ]
+ },
+ "MWI": {
+  "name": "Malawi",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "National Statistics Office of Malawi, OCHA ROSEA",
+    "licenseSource": "data.humdata.org/dataset/malawi-administrative-level-0-3-boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "MYS": {
+  "name": "Malaysia",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 License",
+    "source": "geoBoundaries, citypopulation.de",
+    "licenseSource": "www.citypopulation.de/en/help/termsofuse/"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "MYT": {
+  "name": "Mayotte",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Sentinel-2 10-Meter Land Use/LandCover",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "NAM": {
+  "name": "Namibia",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Public Domain",
+    "source": "Natural Earth",
+    "licenseSource": "www.naturalearthdata.com/about/terms-of-use/"
+   },
+   {
+    "level": "ADM2",
+    "license": "Public Domain",
+    "source": "Stanford Digital Repository, Namibia Statistics Agency",
+    "licenseSource": "purl.stanford.edu/cs051py0596"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "geoBoundaries, Wikimedia",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   }
+  ],
+  "notes": []
+ },
+ "NCL": {
+  "name": "New Caledonia",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "raster2polygon from Sentinel-2 10m Land Cover where Image Year = 2021 / exclude gridcode = 1 (water) / dissolve / processed by IMB",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "NER": {
+  "name": "Niger",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "IPUMS DHS",
+    "licenseSource": "spatialdata.dhsprogram.com/references/subnational_data_schema.pdf"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 License",
+    "source": "geoBoundaries, City Population",
+    "licenseSource": "www.citypopulation.de/termsofuse.html"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution-ShareAlike 2.0",
+    "source": "geoBoundaries, Open Street Map, Converted Lines into Polygon Layer",
+    "licenseSource": "mapcruzin.com/free-niger-country-city-place-gis-shapefiles.htm"
+   }
+  ],
+  "notes": []
+ },
+ "NGA": {
+  "name": "Nigeria",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "GRID3",
+    "licenseSource": "data.grid3.org/datasets/grid3-nigeria-state-boundaries/explore?location=8.992006%2C8.685290%2C6.82"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "GRID3",
+    "licenseSource": "data.grid3.org/datasets/grid3-nigeria-local-government-area-boundaries-1/explore?location=8.959048%2C8.685290%2C6.61"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "GRID3",
+    "licenseSource": "data.grid3.org/datasets/grid3-nigeria-state-boundaries/explore?location=8.992006%2C8.685290%2C6.82"
+   }
+  ],
+  "notes": []
+ },
+ "NIC": {
+  "name": "Nicaragua",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "osm-boundaries.com/"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   }
+  ],
+  "notes": []
+ },
+ "NIU": {
+  "name": "Niue",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Pacific Data Hub",
+    "licenseSource": "pacificdata.org/data/dataset/2011_niu_phc_admin_boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "raster2polygon from Sentinel-2 10m Land Cover where Image Year = 2021 / exclude gridcode = 1 (water) / dissolve / processed by IMB",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": [
+   "no open district file: states shown at district zoom"
+  ]
+ },
+ "NLD": {
+  "name": "Netherlands",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "source": "National Georegister",
+    "licenseSource": "nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/208bc283-7c66-4ce7-8ad3-1cf3e8933fb5?tab=general"
+   },
+   {
+    "level": "ADM2",
+    "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "source": "National Georegister",
+    "licenseSource": "nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/208bc283-7c66-4ce7-8ad3-1cf3e8933fb5?tab=general"
+   },
+   {
+    "level": "ADM0",
+    "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "source": "National Georegister",
+    "licenseSource": "nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/208bc283-7c66-4ce7-8ad3-1cf3e8933fb5?tab=general"
+   }
+  ],
+  "notes": []
+ },
+ "NOR": {
+  "name": "Norway",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "Kartverket",
+    "licenseSource": "kartkatalog.geonorge.no/metadata/administrative-enheter-fylker/6093c8a8-fa80-11e6-bc64-92361f002671"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Geonorge, Mapping Authority of Norway",
+    "licenseSource": "kartkatalog.geonorge.no/metadata/kartverket/administrative-enheter/041f1e6e-bdbc-4091-b48f-8a5990f3cc5b"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "NPL": {
+  "name": "Nepal",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Survey Department of Nepal, OCHA FISS",
+    "licenseSource": "data.humdata.org/dataset/administrative-bounadries-of-nepal"
+   },
+   {
+    "level": "ADM2",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Geoboundaries, Open Data Nepal",
+    "licenseSource": "opendatanepal.com/dataset/new-political-and-administrative-boundaries-shapefile-of-nepal"
+   }
+  ],
+  "notes": []
+ },
+ "NRU": {
+  "name": "Nauru",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Public Domain",
+    "source": "geoBoundaries, FreeMapViewer",
+    "licenseSource": "creativecommons.org/share-your-work/public-domain/"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": [
+   "no open district file: states shown at district zoom"
+  ]
+ },
+ "NZL": {
+  "name": "New Zealand",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "NZ Stats",
+    "licenseSource": "www.stats.govt.nz/about_us/about-this-site/copyright-terms-of-use.aspx"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Stats NZ",
+    "licenseSource": "datafinder.stats.govt.nz/layer/105153-territorial-authority-2021-generalised/"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "NZ Stats",
+    "licenseSource": "www.stats.govt.nz/about_us/about-this-site/copyright-terms-of-use.aspx"
+   }
+  ],
+  "notes": []
+ },
+ "OMN": {
+  "name": "Oman",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": [
+   "no open district file: states shown at district zoom"
+  ]
+ },
+ "PAK": {
+  "name": "Pakistan",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikipedia",
+    "licenseSource": "creativecommons.org/share-your-work/public-domain/"
+   },
+   {
+    "level": "ADM2",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikipedia",
+    "licenseSource": "creativecommons.org/share-your-work/public-domain/"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "PAN": {
+  "name": "Panama",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Milton Solano, of the Smithsonian Tropical Research Institute, on ArcGIS online, GIS Laboratory. Smithsonian Tropical Research Institute, Panama, 2012",
+    "licenseSource": "www.arcgis.com/home/item.html?id=8f1c5499d3a8423888454cfee5b45586"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "The World Factbook - CIA",
+    "licenseSource": "www.cia.gov/the-world-factbook/countries/panama/map"
+   }
+  ],
+  "notes": []
+ },
+ "PCN": {
+  "name": "Pitcairn Islands",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "Sentinel-2 10-Meter Land Use/LandCover",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "PER": {
+  "name": "Peru",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Public Domain",
+    "source": "Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Instituto Geográfico Nacional - IGN, OCHA ROLAC",
+    "licenseSource": "data.humdata.org/dataset/limites-de-peru"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   }
+  ],
+  "notes": []
+ },
+ "PHL": {
+  "name": "Philippines",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "National Mapping and Resource Information Authority (NAMRIA), Philippines Statistics Authority (PSA), OCHA Philippines",
+    "licenseSource": "data.humdata.org/dataset/philippines-administrative-levels-0-to-3"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "National Mapping and Resource Information Authority (NAMRIA), Philippines Statistics Authority (PSA), OCHA Philippines",
+    "licenseSource": "data.humdata.org/about/license"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "OCHA Philippines, National Mapping and Resource Information Authority",
+    "licenseSource": "Data https"
+   }
+  ],
+  "notes": []
+ },
+ "PLW": {
+  "name": "Palau",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "Pacific Data Hub, SPC Statistics for Development Division (SDD)",
+    "licenseSource": "pacificdata.org/data/dataset/2015_plw_phc_admin_boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "PNG": {
+  "name": "Papua New Guinea",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Papua New Guinea National Statistics Office, OCHA ROAP",
+    "licenseSource": "data.humdata.org/dataset/papua-new-guinea-admin-level-0-international-boundaries"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "OCHA ROAP, Papua New Guinea National Statistics Office",
+    "licenseSource": "data.humdata.org/dataset/papua-new-guinea-admin-level-0-international-boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "POL": {
+  "name": "Poland",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "Geoboundaries, OpenStreetMap",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": [
+   "country outline dissolved from states (no open ADM0 file)"
+  ]
+ },
+ "PRI": {
+  "name": "Puerto Rico",
+  "files": [
+   {
+    "level": "ADM2",
+    "license": "Public Domain",
+    "source": "United States Census Bureau, MAF/TIGER",
+    "licenseSource": "www.census.gov/about/policies/open-gov/open-data.html"
+   }
+  ],
+  "notes": [
+   "country outline dissolved from districts (no open ADM0 file)",
+   "no states: country shown at state zoom",
+   "no states to nest districts in: country shown at district zoom"
+  ]
+ },
+ "PRK": {
+  "name": "Dem. People's Republic of Korea",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "World Food Programme, OCHA ROAP",
+    "licenseSource": "data.humdata.org/dataset/dpr-korea-administrative-boundaries"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "World Food Programme, OCHA ROAP",
+    "licenseSource": "data.humdata.org/dataset/dpr-korea-administrative-boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "World Food Programme, OCHA ROAP",
+    "licenseSource": "data.humdata.org/dataset/dpr-korea-administrative-boundaries"
+   }
+  ],
+  "notes": []
+ },
+ "PRT": {
+  "name": "Portugal",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "DG Territory",
+    "licenseSource": "snig.dgterritorio.gov.pt/rndg/srv/por/catalog.search#/metadata/5e3debf1-6cde-4ff2-8301-a86799231907"
+   },
+   {
+    "level": "ADM2",
+    "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "source": "Wikipedia",
+    "licenseSource": "en.wikipedia.org/wiki/File"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "DG Territory",
+    "licenseSource": "snig.dgterritorio.gov.pt/rndg/srv/por/catalog.search#/metadata/5e3debf1-6cde-4ff2-8301-a86799231906"
+   }
+  ],
+  "notes": []
+ },
+ "PRY": {
+  "name": "Paraguay",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Direcion General de Estadica, Encuestas y Censos",
+    "licenseSource": "twitter.com/WMgeoLab/status/1179001467669078017/photo/2"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "Direcion General de Estadica, Encuestas y Censos",
+    "licenseSource": "twitter.com/WMgeoLab/status/1179001467669078017/photo/3"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Direcion General de Estadica, Encuestas y Censos",
+    "licenseSource": "twitter.com/WMgeoLab/status/1179001467669078017/photo/1"
+   }
+  ],
+  "notes": []
+ },
+ "PSE": {
+  "name": "State of Palestine",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "geoBoundaries, Open Data Watch",
+    "licenseSource": "opendatawatch.com/publications/open-data-to-support-sustainable-development-goals/"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "Open Data Watch",
+    "licenseSource": "opendatawatch.com/publications/open-data-to-support-sustainable-development-goals/"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "raster2polygon from Sentinel-2 10m Land Cover where Image Year = 2021 / exclude gridcode = 1 (water) / dissolve / erase adm0 overlap / processed by IMB",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": []
+ },
+ "PYF": {
+  "name": "French Polynesia",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "raster2polygon from Sentinel-2 10m Land Cover where Image Year = 2021 / exclude gridcode = 1 (water) / dissolve / processed by IMB",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "QAT": {
+  "name": "Qatar",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "geoBoundaries, Qatar Open Data Portal",
+    "licenseSource": "www.data.gov.qa/pages/license/annexes"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "geoBoundaries, Qatar Open Data Portal",
+    "licenseSource": "www.data.gov.qa/pages/license/annexes"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "Open Street Map, Wambacher (https//wambachers-osm.website/boundaries/)",
+    "licenseSource": "wiki.openstreetmap.org/wiki/Legal_FAQ#What_is_the_license_for_OpenStreetMap.27s_geodata.3F"
+   }
+  ],
+  "notes": []
+ },
+ "REU": {
+  "name": "Réunion",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "raster2polygon from Sentinel-2 10m Land Cover where Image Year = 2021 / exclude gridcode = 1 (water) / dissolve / processed by IMB",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "ROU": {
+  "name": "Romania",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "World Bank",
+    "licenseSource": "data.worldbank.org/summary-terms-of-use"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Agentia Nationala de Cadastru si Publicitate Imobiliara",
+    "licenseSource": "data.gov.ro/pages/licence"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 3.0 License",
+    "source": "StatSilk, geoBoundaries",
+    "licenseSource": "www.statsilk.com/license"
+   }
+  ],
+  "notes": []
+ },
+ "RUS": {
+  "name": "Russian Federation",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "geoBoundaries, OpenStreetMap",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "RWA": {
+  "name": "Rwanda",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "The Rwanda Geo Portal",
+    "licenseSource": "rwanda.africageoportal.com/datasets/dac12729b2cd4f0db92fddaa6a80460d_0"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Open Data Rwanda",
+    "licenseSource": "www.statistics.gov.rw/terms-use"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "Sentinel-2 10-Meter Land Use/LandCover",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": []
+ },
+ "SAU": {
+  "name": "Saudi Arabia",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution-ShareAlike 2.0",
+    "source": "geoBoundaries, OpenStreetMap",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "SDN": {
+  "name": "Sudan",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Information Management Working Group (IMWG), OCHA ROSEA",
+    "licenseSource": "data.humdata.org/dataset/sudan-administrative-boundaries-levels-0-2"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "OCHA ROSEA, Information Management Working Group",
+    "licenseSource": "data.humdata.org/dataset/sudan-administrative-boundaries-levels-0-2"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Information Management Working Group (IMWG), OCHA ROSEA",
+    "licenseSource": "data.humdata.org/dataset/sudan-administrative-boundaries-levels-0-2"
+   }
+  ],
+  "notes": []
+ },
+ "SEN": {
+  "name": "Senegal",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Government of Senegal, OCHA ROWCA",
+    "licenseSource": "data.humdata.org/dataset/senegal-administrative-boundaries"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Government of Senegal, OCHA ROWCA",
+    "licenseSource": "data.humdata.org/dataset/senegal-administrative-boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Government of Senegal, OCHA ROWCA",
+    "licenseSource": "data.humdata.org/dataset/senegal-administrative-boundaries"
+   }
+  ],
+  "notes": []
+ },
+ "SGP": {
+  "name": "Singapore",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "Urban Redevelopment Authority, derived from ADM 3",
+    "licenseSource": "data.gov.sg/dataset/master-plan-2014-subzone-boundary-no-sea"
+   },
+   {
+    "level": "ADM2",
+    "license": "Singapore Open Data License Version 1.0",
+    "source": "geoBoundaries, Urban Redevelopment Authority",
+    "licenseSource": "data.gov.sg/dataset/master-plan-2014-subzone-boundary-no-sea"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "Urban Redevelopment Authority, derived from ADM 3",
+    "licenseSource": "data.gov.sg/dataset/master-plan-2014-subzone-boundary-no-sea"
+   }
+  ],
+  "notes": []
+ },
+ "SHN": {
+  "name": "Saint Helena",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "raster2polygon from Sentinel-2 10m Land Cover where Image Year = 2021 / exclude gridcode = 1 (water) / dissolve / processed by IMB",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "SLB": {
+  "name": "Solomon Islands",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Public Domain",
+    "source": "Natural Earth",
+    "licenseSource": "www.naturalearthdata.com/about/terms-of-use/"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Solomon Islands National Statistics Office (SINSO), OCHA ROAP",
+    "licenseSource": "data.humdata.org/dataset/solomon-islands-administrative-level-0-1-2-and-3-boundary-polygons"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "Natural Earth",
+    "licenseSource": "www.naturalearthdata.com/about/terms-of-use/"
+   }
+  ],
+  "notes": []
+ },
+ "SLE": {
+  "name": "Sierra Leone",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Government of Sierra Leone, OCHA ROWCA",
+    "licenseSource": "data.humdata.org/dataset/sierra-leone-all-ad-min-level-boundaries"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Government of Sierra Leone, OCHA ROWCA",
+    "licenseSource": "data.humdata.org/dataset/sierra-leone-all-ad-min-level-boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "openAfrica, geoBoundaries",
+    "licenseSource": "africaopendata.org/dataset/sierra-leone-admin-level-4-boundaries"
+   }
+  ],
+  "notes": []
+ },
+ "SLV": {
+  "name": "El Salvador",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution-ShareAlike 2.0",
+    "source": "Open Street Map",
+    "licenseSource": "osm-boundaries.com/"
+   },
+   {
+    "level": "ADM2",
+    "license": "Public Domain",
+    "source": "geoBoundaries",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution-ShareAlike 2.0",
+    "source": "Open Street Map",
+    "licenseSource": "osm-boundaries.com/"
+   }
+  ],
+  "notes": []
+ },
+ "SMR": {
+  "name": "San Marino",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": [
+   "no open district file: states shown at district zoom"
+  ]
+ },
+ "SOM": {
+  "name": "Somalia",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "Global Polio Eradication Initiative (GPEI), Frank Salet",
+    "licenseSource": "polioeradication.org/"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "United National Development Programme (UNDP), OCHA Somalia",
+    "licenseSource": "data.humdata.org/dataset/somalia-administrative-boundaries"
+   }
+  ],
+  "notes": []
+ },
+ "SRB": {
+  "name": "Serbia",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "SSD": {
+  "name": "South Sudan",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "South Sudan Information Management Working Group (IMWG), National Bureau of Statistics (NBS), and OCHA, OCHA South Sudan",
+    "licenseSource": "data.humdata.org/dataset/south-sudan-administrative-boundaries"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "South Sudan Information Management Working Group (IMWG), National Bureau of Statistics (NBS), and OCHA, OCHA South Sudan",
+    "licenseSource": "data.humdata.org/dataset/south-sudan-administrative-boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "South Sudan Information Management Working Group (IMWG), National Bureau of Statistics (NBS), and OCHA, OCHA South Sudan",
+    "licenseSource": "data.humdata.org/about/license"
+   }
+  ],
+  "notes": []
+ },
+ "STP": {
+  "name": "Sao Tome and Principe",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "geoBoundaries, OpenStreetMap",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "SUR": {
+  "name": "Suriname",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "SVK": {
+  "name": "Slovakia",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "SVN": {
+  "name": "Slovenia",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "Eurostat- European Commission",
+    "licenseSource": "ec.europa.eu/info/legal-notice_en"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikipedia",
+    "licenseSource": "commons.wikimedia.org/wiki"
+   }
+  ],
+  "notes": []
+ },
+ "SWE": {
+  "name": "Sweden",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 3.0 License",
+    "source": "geoBoundaries, Erik Frohne",
+    "licenseSource": "commons.wikimedia.org/w/index.php?curid=5675559"
+   },
+   {
+    "level": "ADM2",
+    "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Government Licence v3.0",
+    "source": "Open Data Soft, World Food Programme",
+    "licenseSource": "www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+   }
+  ],
+  "notes": []
+ },
+ "SWZ": {
+  "name": "Eswatini",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "SYC": {
+  "name": "Seychelles",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+    "source": "Digitizedhttps, Digitizedhttps",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Seychelles National Bureau of Statistics, OCHA ROSEA",
+    "licenseSource": "data.humdata.org/dataset/seychelles-subnational-administrative-boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "SYR": {
+  "name": "Syrian Arab Republic",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "United Nations Cartographic Section (UNCS) and United Nations Office for the Coordination of Humanitarian Affairs (UNOCHA), OCHA ROSC",
+    "licenseSource": "data.humdata.org/dataset/syrian-arab-republic-administrative-boundaries-populated-places"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "United Nations Cartographic Section (UNCS) and United Nations Office for the Coordination of Humanitarian Affairs (UNOCHA), OCHA ROSC",
+    "licenseSource": "data.humdata.org/dataset/syrian-arab-republic-administrative-boundaries-populated-places"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "TCA": {
+  "name": "Turks and Caicos Islands",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "raster2polygon from Sentinel-2 10m Land Cover where Image Year = 2021 / exclude gridcode = 1 (water) / dissolve / processed by IMB",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "TCD": {
+  "name": "Chad",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "OCHA Chad, OCHA Chad",
+    "licenseSource": "data.humdata.org/dataset/chad-admin-boundaries-admin-1-and-admin-2"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "TGO": {
+  "name": "Togo",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution-ShareAlike 2.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "THA": {
+  "name": "Thailand",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Royal Thai Survey Department, OCHA ROAP",
+    "licenseSource": "data.humdata.org/dataset/thailand-administrative-boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "TJK": {
+  "name": "Tajikistan",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "TKL": {
+  "name": "Tokelau",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "raster 2 polygon from Sentinel-2 10m Land Cover where Image Year = 2022 / exclude gridcode = 1 (water) / dissolve",
+    "licenseSource": "livingatlas.arcgis.com/landcover/"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "TKM": {
+  "name": "Turkmenistan",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+    "source": "CIESIN",
+    "licenseSource": "sedac.ciesin.columbia.edu/data/set/grump-v1-population-density/maps/7"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   }
+  ],
+  "notes": []
+ },
+ "TLS": {
+  "name": "Timor-Leste",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "WHO, OCHA ROAP",
+    "licenseSource": "data.humdata.org/dataset/timor-leste-administrative-boundaries-levels-0-3"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "TON": {
+  "name": "Tonga",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Pacific Data Hub",
+    "licenseSource": "pacificdata.org/data/geographic_data/2016_ton_phc_admin_boundaries/resource/a825b058-0932-48ac-a3e2-9ec316e89372"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "TTO": {
+  "name": "Trinidad and Tobago",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": [
+   "no open district file: states shown at district zoom"
+  ]
+ },
+ "TUN": {
+  "name": "Tunisia",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "TUR": {
+  "name": "Turkey",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution-ShareAlike 2.0",
+    "source": "Open Street Map",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, OSM Boundaries",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution-ShareAlike 2.0",
+    "source": "Open Street Map",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "TUV": {
+  "name": "Tuvalu",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Pacific Data Hub",
+    "licenseSource": "pacificdata.org/data/geographic_data/2017_tuv_phc_admin_boundaries/resource/9eefabe8-d129-44ee-a3a4-7f93a24b2349"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "TWN": {
+  "name": "Taiwan",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution-ShareAlike 2.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": [
+   "country outline dissolved from states (no open ADM0 file)"
+  ]
+ },
+ "TZA": {
+  "name": "United Republic of Tanzania",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Tanzania National Bureau of Statistics / UN OCHA ROSA, OCHA ROSA",
+    "licenseSource": "data.humdata.org/dataset/tanzania-administrative-boundaries-level-1-to-3-regions-districts-and-wards-with-2012-population"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "Sentinel-2 10-Meter Land Use/LandCover",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": []
+ },
+ "UGA": {
+  "name": "Uganda",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "UKR": {
+  "name": "Ukraine",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "en.wikipedia.org/wiki/File"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "URY": {
+  "name": "Uruguay",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "commons.wikimedia.org/wiki/Category"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "USA": {
+  "name": "United States of America",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Public Domain",
+    "source": "United States Census Bureau, MAF/TIGER Database",
+    "licenseSource": "www.census.gov/programs-surveys/geography/technical-documentation/naming-convention/cartographic-boundary-file.html"
+   },
+   {
+    "level": "ADM2",
+    "license": "Public Domain",
+    "source": "United States Census Bureau, MAF/TIGER Database",
+    "licenseSource": "www.census.gov/programs-surveys/geography/technical-documentation/naming-convention/cartographic-boundary-file.html"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "United States Census Bureau, MAF/TIGER Database",
+    "licenseSource": "www.census.gov/programs-surveys/geography/technical-documentation/naming-convention/cartographic-boundary-file.html"
+   }
+  ],
+  "notes": []
+ },
+ "UZB": {
+  "name": "Uzbekistan",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "OCHA ROCCA",
+    "licenseSource": "data.humdata.org/dataset/ubbekistan-update"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "VAT": {
+  "name": "Holy See",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikimedia Commons",
+    "licenseSource": "upload.wikimedia.org/wikipedia/commons/9/9c/Flag_map_of_Vatican_City.svg"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "VCT": {
+  "name": "Saint Vincent and the Grenadines",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": [
+   "no open district file: states shown at district zoom"
+  ]
+ },
+ "VEN": {
+  "name": "Venezuela (Bolivarian Republic of)",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "OCHA Venezuela, Instituto Nacional de Estadística",
+    "licenseSource": "Data https"
+   },
+   {
+    "level": "ADM2",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "Efrain Porto Tapiquen Geografia, SIG y Estudios Ambientales",
+    "licenseSource": "twitter.com/WMgeoLab/status/1251983690709827590"
+   },
+   {
+    "level": "ADM0",
+    "license": "Public Domain",
+    "source": "Natural Earth",
+    "licenseSource": "www.naturalearthdata.com/about/terms-of-use/"
+   }
+  ],
+  "notes": []
+ },
+ "VGB": {
+  "name": "British Virgin Islands",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "raster2polygon from Sentinel-2 10m Land Cover where Image Year = 2021 / exclude gridcode = 1 (water) / dissolve / processed by IMB",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "VIR": {
+  "name": "United States Virgin Islands",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "Sentinel-2 10-Meter Land Use/LandCover",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "VNM": {
+  "name": "Viet Nam",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Public Domain",
+    "source": "geoBoundaries, Wikipedia",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "OCHA ROAP, Government of Viet Nam",
+    "licenseSource": "data.humdata.org/dataset/viet-nam-administrative-boundaries-polygon-polyline"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "geoBoundaries, Wikipedia",
+    "licenseSource": "commons.wikimedia.org/wiki/File"
+   }
+  ],
+  "notes": []
+ },
+ "VUT": {
+  "name": "Vanuatu",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Secretarial of the Pacific Community (SPC), Statistics for Development Division, OCHA ROP",
+    "licenseSource": "data.humdata.org/dataset/vanuatu-administrative-level-0-1-and-2-boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "WLF": {
+  "name": "Wallis and Futuna Islands",
+  "files": [
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "raster2polygon from Sentinel-2 10m Land Cover where Image Year = 2021 / exclude gridcode = 1 (water) / dissolve / processed by IMB",
+    "licenseSource": "sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice"
+   }
+  ],
+  "notes": [
+   "no states: country shown at state zoom",
+   "no open district file: country shown at district zoom"
+  ]
+ },
+ "WSM": {
+  "name": "Samoa",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+    "source": "Wikipedia",
+    "licenseSource": "en.wikipedia.org/wiki/File"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "Pacific Data Hub, SPC Statistics for Development Division (SDD)",
+    "licenseSource": "pacificdata.org/data/dataset/2011_wsm_phc_admin_boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "XKX": {
+  "name": "Kosovo",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution-ShareAlike 2.0",
+    "source": "Open Street Map",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution-ShareAlike 2.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution-ShareAlike 2.0",
+    "source": "Open Street Map",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "YEM": {
+  "name": "Yemen",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Central Statistical Organization (CSO), OCHA Yemen",
+    "licenseSource": "data.humdata.org/dataset/yemen-admin-boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Open Data Commons Open Database License 1.0",
+    "source": "OpenStreetMap, Wambacher",
+    "licenseSource": "www.openstreetmap.org/copyright"
+   }
+  ],
+  "notes": []
+ },
+ "ZAF": {
+  "name": "South Africa",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "OCHA ROSEA, South African Municipal Demarcation Board",
+    "licenseSource": "data.humdata.org/dataset/south-africa-admin-level-1-boundaries"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "OCHA ROSEA, South African Municipal Demarcation Board",
+    "licenseSource": "data.humdata.org/dataset/south-africa-admin-level-1-boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "OCHA ROSEA, South African Municipal Demarcation Board",
+    "licenseSource": "data.humdata.org/dataset/south-africa-admin-level-1-boundaries"
+   }
+  ],
+  "notes": []
+ },
+ "ZMB": {
+  "name": "Zambia",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "source": "Zambia Data Hub",
+    "licenseSource": "zambia-nsdi-mlnr.hub.arcgis.com/datasets/6fe71ff483ab491782c8524ec3d1a3b8_0/about"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "source": "GRID3, Office of the Surveyor General",
+    "licenseSource": "data.grid3.org/datasets/GRID3"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Disaster Management and Mitigation Unit (DMMU) Zambia, OCHA ROSEA",
+    "licenseSource": "data.grid3.org/datasets/GRID3"
+   }
+  ],
+  "notes": []
+ },
+ "ZWE": {
+  "name": "Zimbabwe",
+  "files": [
+   {
+    "level": "ADM1",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Zimbabwe National Statistics Agency (ZIMSTAT www.zimstat.co.zw) Central Statistics Office, OCHA ROSEA",
+    "licenseSource": "data.humdata.org/dataset/zimbabwe-administrative-levels-0-3-boundaries"
+   },
+   {
+    "level": "ADM2",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Zimbabwe National Statistics Agency (ZIMSTAT www.zimstat.co.zw) Central Statistics Office, OCHA ROSEA",
+    "licenseSource": "data.humdata.org/dataset/zimbabwe-administrative-levels-0-3-boundaries"
+   },
+   {
+    "level": "ADM0",
+    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+    "source": "Zimbabwe National Statistics Agency (ZIMSTAT www.zimstat.co.zw) Central Statistics Office, OCHA ROSEA",
+    "licenseSource": "data.humdata.org/dataset/zimbabwe-administrative-levels-0-3-boundaries"
+   }
+  ],
+  "notes": []
+ }
+}

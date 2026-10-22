@@ -1,0 +1,37 @@
+{
+  "name": "risk-map-demo",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -p tsconfig.json && tsc -p tsconfig.node.json && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "data:download": "tsx scripts/download-boundaries.ts",
+    "data:boundaries": "tsx scripts/prepare-boundaries.ts",
+    "data:risk": "tsx scripts/generate-dummy-data.ts",
+    "data": "npm run data:download && npm run data:boundaries && npm run data:risk"
+  },
+  "dependencies": {
+    "@turf/boolean-point-in-polygon": "7.1.0",
+    "mapbox-gl": "3.8.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@turf/centroid": "7.1.0",
+    "@turf/distance": "7.1.0",
+    "@turf/point-on-feature": "7.1.0",
+    "@types/geojson": "7946.0.14",
+    "@types/node": "20.17.6",
+    "@types/react": "18.3.12",
+    "@types/react-dom": "18.3.1",
+    "@vitejs/plugin-react": "4.3.4",
+    "mapshaper": "0.6.99",
+    "tsx": "4.19.2",
+    "typescript": "5.6.3",
+    "vite": "5.4.11",
+    "vitest": "2.1.8"
+  }
+}
